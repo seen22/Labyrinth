@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1674880261 source:d:\c++ project\labyrinth\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
+1675079375 source:d:\c++project\labyrinth\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Arena.h"
+	"GameLogic.h"
+
+1675440086 source:d:\c++project\labyrinth\arena.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Arena.h"
+
+1675303762 d:\c++project\labyrinth\arena.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1675303759 source:d:\c++project\labyrinth\gamelogic.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Arena.h"
+	"GameLogic.h"
+
+1675284453 d:\c++project\labyrinth\gamelogic.h
+	<fstream>
+	<sstream>
+	"Arena.h"
+
+1675086575 source:c:\users\seen kh\desktop\sinb\programmierung\c++project\labyrinth\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Arena.h"
+	"GameLogic.h"
+
+1676134816 c:\users\seen kh\desktop\sinb\programmierung\c++project\labyrinth\arena.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1676138571 c:\users\seen kh\desktop\sinb\programmierung\c++project\labyrinth\gamelogic.h
+	<fstream>
+	<sstream>
+	"Arena.h"
+
+1676141390 source:c:\users\seen kh\desktop\sinb\programmierung\c++project\labyrinth\arena.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Arena.h"
+
+1676142046 source:c:\users\seen kh\desktop\sinb\programmierung\c++project\labyrinth\gamelogic.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Arena.h"
+	"GameLogic.h"
+
